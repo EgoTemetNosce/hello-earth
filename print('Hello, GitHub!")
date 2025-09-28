@@ -1,0 +1,3 @@
+git add hello.py
+git commit -m "Add first hello earth script"
+git push origin main

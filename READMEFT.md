@@ -20,5 +20,5 @@ It’s designed as a starter portfolio project for learning **financial data ana
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-   cd YOUR-REPO
+   git clone https://github.com/EgoTemetNosce/hello-earth.git
+   cd hello-earth

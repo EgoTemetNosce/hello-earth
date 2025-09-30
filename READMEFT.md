@@ -1,11 +1,24 @@
-# FinTech Starter
+# FinTech Starter 📈  
 
-This is a simple Python FinTech starter project that:
-- Fetches stock or crypto prices using Yahoo Finance
-- Computes 20 & 50 day moving averages
-- Saves a plot as a PNG file
+![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
 
-## How to run
-```bash
-pip install -r requirements.txt
-python fintech_starter.py
+---
+
+## 📌 Overview  
+This is a **FinTech starter project** built with Python. It demonstrates how to:  
+- Fetch **stock or cryptocurrency prices** using the Yahoo Finance API (`yfinance`)  
+- Compute simple moving averages (20-day & 50-day)  
+- Generate and save a chart as a **PNG image**  
+
+It’s designed as a starter portfolio project for learning **financial data analysis** and showcasing Python + finance skills on GitHub.  
+
+---
+
+## ⚙️ Installation & Setup  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+   cd YOUR-REPO
